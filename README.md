@@ -10,4 +10,4 @@
 **Instagram:** https://www.instagram.com/afrozchakure/  
 **Facebook:** https://www.facebook.com/afroz.chakure.54  
 
-Would love to hear from you. 😁💖
+Would love to hear from you 😁💖
