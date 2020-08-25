@@ -5,6 +5,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/afrozchakure/Internity-Summer-Internship-Work?style=for-the-badge)](https://github.com/afrozchakure/Internity-Summer-Internship-Work/network)
 [![GitHub stars](https://img.shields.io/github/stars/afrozchakure/Internity-Summer-Internship-Work?color=success&style=for-the-badge)](https://github.com/afrozchakure/Internity-Summer-Internship-Work/stargazers)
 [![GitHub license](https://img.shields.io/github/license/afrozchakure/Internity-Summer-Internship-Work?color=blueviolet&style=for-the-badge)](https://github.com/afrozchakure/Internity-Summer-Internship-Work/blob/master/LICENSE)
+[![Visits Badge](https://badges.pufler.dev/visits/afrozchakure/Internity-Summer-Internship-Work?color=orange&style=for-the-badge&logo)](https://badges.pufler.dev)
 </div>
 
 - Contains the work done by me during my Summer Internship with **Internity Foundation in 2019 (June - July)**
