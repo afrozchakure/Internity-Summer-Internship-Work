@@ -13,10 +13,7 @@
 - During Creat-A-Thon my team 'ERUDITE' came 2nd out of 12 participating teams. We made an Old Car Price predictor by applying Random Forest Regressor to our Dataset.
 - All the honours and Achievements are present inside the **Completion Letter and Honors** folder.
 
-### Connect with me on: 👇 
-**Linkedin:** https://www.linkedin.com/in/afroz-chakure-489780168/  
-**Instagram:** https://www.instagram.com/afrozchakure/  
-**Facebook:** https://www.facebook.com/afroz.chakure.54  
 
-Would love to hear from you 😁💖
+
+Do :star: and fork this repo :D
 
