@@ -8,11 +8,13 @@
 [![Visits Badge](https://badges.pufler.dev/visits/afrozchakure/Internity-Summer-Internship-Work?color=orange&style=for-the-badge&logo)](https://badges.pufler.dev)
 </div>
 
+
+
 - Contains the work done by me during my Summer Internship with **Internity Foundation in 2019 (June - July)**
 - Had an amazing time during my internship and was awarded the 'Best Blogger' and 'Best Intern' title for my work.
 - During Creat-A-Thon my team 'ERUDITE' came 2nd out of 12 participating teams. We made an Old Car Price predictor by applying Random Forest Regressor to our Dataset.
 - All the honours and Achievements are present inside the **Completion Letter and Honors** folder.
-
+- Link to final Project on **Movie Recommender System** - https://github.com/afrozchakure/Movie-Recommender-Systems
 
 
 Do :star: and fork this repo :D
