@@ -17,5 +17,5 @@
 - Link to final Project on **Movie Recommender System** - https://github.com/afrozchakure/Movie-Recommender-Systems
 
 
-Do :star: and fork this repo :D
+Do star :star: and fork this repo :D
 
